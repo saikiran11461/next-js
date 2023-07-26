@@ -1,0 +1,40 @@
+.container{
+    border: 2px solid transparent;
+    width: 75%;
+    margin: auto;
+    background-color:rgb(206, 212, 212);
+    box-sizing: border-box;
+    padding: 40px 0px;
+   
+}
+.flex-container{
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    gap: 20px;
+}
+.left{
+    width: 30%;
+    border: 2px solid transparent;
+    
+}
+.right{
+    width: 50%;
+    border: 2px solid transparent;
+    text-align: center;
+}
+.flex-container h2{
+    font-size: 50px;
+    margin-top: 80px;
+}
+.flex-container h3{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.flex-container p{
+    font-family: sans-serif;
+    margin:10px 0px;
+}
+.flex-container img{
+    object-fit: cover;
+}

@@ -1,0 +1,10 @@
+.movies-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    border: 2px solid transparent;
+    gap: 10px;
+}
+.main-container{
+    width: 75%;
+    margin: auto;
+}

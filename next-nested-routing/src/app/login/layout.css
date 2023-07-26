@@ -1,0 +1,13 @@
+.login-flex{
+    display: flex;
+}
+.login-flex li{
+    list-style: none;
+    padding: 0px 10px;
+}
+
+.login-flex a{
+    text-decoration: none;
+    color: black;
+    font-size: 21px;
+}

@@ -1,0 +1,47 @@
+.container{
+    width: 75%;
+    border: 2px solid transparent;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:#eeeeee;
+    border-radius: 20px;
+}
+.header{
+     border: 2px solid transparent;
+     display:  flex;
+     gap: 20px;
+}
+.content{
+    border: 2px solid transparent;
+    width: 60%;
+}
+.innerdiv{
+    width: 80%;
+    margin-left: 60px;
+    margin-top: 200px;
+    text-align: center;
+}
+.innerdiv h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.innerdiv p{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+.innerdiv button{
+    padding:  13px 30px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    background-color:black;
+    border-radius: 10px;
+}
+.image{
+    border: 2px solid transparent;
+    width: 50%;
+}
+.image img{
+    width: 100%;
+}

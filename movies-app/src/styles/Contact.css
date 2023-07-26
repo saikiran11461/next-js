@@ -1,0 +1,47 @@
+
+.container{
+    border: 2px solid transparent;
+    width: 75%;
+    margin: auto;
+    box-sizing: border-box;
+    padding: 100px 0px;
+    background: #eeee;
+}
+.form-div{
+    border: 2px solid transparent;
+    display: flex;
+    width: 60%;
+    margin: auto;
+    gap: 10px;
+}
+.form-div .content-div{
+    width: 50%;
+    border: 2px solid transparent;
+}
+.form-div .right-form{
+    width: 50%;
+    border: 2px solid transparent;
+    
+}
+.right-form input{
+    padding: 14px 140px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    border: 2px solid lightgray;
+}
+
+.right-form button{
+    padding: 12px 70px;
+    margin-left: 30%;
+    border: none;
+    color: white;
+    background-color:black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+img{
+    border-radius: 10px;
+}
